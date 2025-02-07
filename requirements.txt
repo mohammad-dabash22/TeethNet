@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+Pillow  
+torch
+torchvision
+torchmetrics  # For evaluation metrics
+fastapi
+uvicorn
